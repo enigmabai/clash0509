@@ -1,5 +1,5 @@
 # 内容：YouTube
-# 数量：17条
+# 数量：19条
 USER-AGENT,*youtube*
 USER-AGENT,YouTube*
 USER-AGENT,com.google.ios.youtube*
@@ -17,3 +17,5 @@ DOMAIN-SUFFIX,youtubegaming.com
 DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,openai.com
